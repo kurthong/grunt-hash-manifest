@@ -1,7 +1,7 @@
 {
   "name": "grunt-hash-manifest-md5-fix",
-  "description": "Forked from https://github.com/gseguin/grunt-hash-manifest.git. Creates manifest of files and associated hashes,",
-  "version": "0.1.0",
+  "description": "Forked from https://github.com/gseguin/grunt-hash-manifest.git and fixed MD5 value generation issues. Creates manifest of files and associated hashes,",
+  "version": "0.0.2",
   "homepage": "https://github.com/kurthong/grunt-hash-manifest.git",
   "author": {
     "name": "Kurt Hong",

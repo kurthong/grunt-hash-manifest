@@ -1,4 +1,8 @@
-# grunt-hash-manifest [![Build Status](https://secure.travis-ci.org/gseguin/grunt-hash-manifest.png?branch=master)](http://travis-ci.org/gseguin/grunt-hash-manifest)
+# grunt-hash-manifest-fix-md5
+
+*This plugin is just forked from grunt-hash-manifest[https://github.com/gseguin/grunt-hash-manifest] to have correct MD5 value. Original grunt-hash-manifest has two issues with MD5 generation like shown below.
+- MD5 value is different from others[https://github.com/gseguin/grunt-hash-manifest/issues/1]
+- Fixed to work with binary files[https://github.com/gseguin/grunt-hash-manifest/pull/2]
 
 Creates manifest of files and associated hashes
 
@@ -6,13 +10,13 @@ Creates manifest of files and associated hashes
 This plugin requires Grunt `~0.4.0`
 
 ```shell
-npm install grunt-hash-manifest --save-dev
+npm install grunt-hash-manifest-fix-md5 --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-hash-manifest');
+grunt.loadNpmTasks('grunt-hash-manifest-fix-md5');
 ```
 
 *This plugin was designed to work with Grunt 0.4.x.

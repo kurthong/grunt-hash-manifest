@@ -1,23 +1,23 @@
 {
-  "name": "grunt-hash-manifest",
+  "name": "grunt-hash-manifest-md5-fix",
   "description": "Creates manifest of files and associated hashes",
-  "version": "0.4.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/gseguin/grunt-hash-manifest.git",
   "author": {
-    "name": "Ghislain Seguin",
-    "email": "ghislain@gmail.com"
+    "name": "Kurt Hong",
+    "email": "kurt@kurt.pe.kr"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gseguin/grunt-hash-manifest.git"
+    "url": "git://github.com/kurthong/grunt-hash-manifest.git"
   },
   "bugs": {
-    "url": "https://github.com/gseguin/grunt-hash-manifest/issues"
+    "url": "https://github.com/kurthong/grunt-hash-manifest/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/gseguin/grunt-hash-manifest/blob/master/LICENSE-MIT"
+      "url": "https://github.com/kurthong/grunt-hash-manifest/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",

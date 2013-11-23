@@ -2,7 +2,7 @@
   "name": "grunt-hash-manifest-md5-fix",
   "description": "Forked from https://github.com/gseguin/grunt-hash-manifest.git and fixed MD5 value generation issues. Creates manifest of files and associated hashes,",
   "version": "0.0.2",
-  "homepage": "https://github.com/kurthong/grunt-hash-manifest.git",
+  "homepage": "https://github.com/kurthong/grunt-hash-manifest-fix-md5.git",
   "author": {
     "name": "Kurt Hong",
     "email": "kurt@kurt.pe.kr"
@@ -12,12 +12,12 @@
     "url": "git://github.com/kurthong/grunt-hash-manifest.git"
   },
   "bugs": {
-    "url": "https://github.com/kurthong/grunt-hash-manifest/issues"
+    "url": "https://github.com/kurthong/grunt-hash-manifest-fix-md5/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/kurthong/grunt-hash-manifest/blob/master/LICENSE-MIT"
+      "url": "https://github.com/kurthong/grunt-hash-manifest-fix-md5/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
